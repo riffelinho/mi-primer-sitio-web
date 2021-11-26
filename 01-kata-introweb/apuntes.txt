@@ -1,0 +1,11 @@
+riffelesperance87@LAPTOP-LBK24UO0 MINGW64 ~
+$ mkdir master-marvel-code
+
+riffelesperance87@LAPTOP-LBK24UO0 MINGW64 ~
+$ cd master-marvel-code
+
+riffelesperance87@LAPTOP-LBK24UO0 MINGW64 ~/master-marvel-code
+$ ls
+
+riffelesperance87@LAPTOP-LBK24UO0 MINGW64 ~/master-marvel-code
+$

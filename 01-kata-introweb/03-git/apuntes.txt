@@ -9,3 +9,10 @@ $ ls
 
 riffelesperance87@LAPTOP-LBK24UO0 MINGW64 ~/master-marvel-code
 $
+main(master)= producto final
+develop= trabajndo actualmente
+feature= una rama donde se traabaja algo en esecifico
+hotfix= correciones
+
+head
+es un "puntero" a donde estamos 

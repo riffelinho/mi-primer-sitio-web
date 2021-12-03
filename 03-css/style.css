@@ -6,3 +6,16 @@
 body{
     background-color: seashell;
 }
+
+/*
+ navbar
+*/
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.link{
+    display: flex;
+    justify-content: flex-end;
+}

@@ -3,19 +3,24 @@
 */
 
 
-body{
+body {
     background-color: seashell;
 }
 
 /*
  navbar
 */
-.navbar{
+.navbar {
     display: flex;
     justify-content: space-between;
 }
 
-.link{
+.link {
     display: flex;
     justify-content: flex-end;
+}
+
+.navbar__links {
+    display: flex;
+    flex-direction: column-reverse;
 }

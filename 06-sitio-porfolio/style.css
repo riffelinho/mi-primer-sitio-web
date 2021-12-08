@@ -1,0 +1,34 @@
+/*utiidades*/
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+/* secciones*/
+.navbar {
+    background-color: purple;
+    height: 80px;
+    width: 1152px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar__logo{
+   
+    height: 100% ;
+    width: 300px;
+}
+.navbar__logo img {
+   height: 100%;
+   
+}
+
+.navbar__links{
+   background-color: mediumseagreen;
+    height: 100% ;
+    width: 100px;
+}

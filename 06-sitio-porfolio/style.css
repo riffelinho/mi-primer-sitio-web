@@ -10,7 +10,6 @@
 
 /* secciones*/
 .navbar {
-    background-color: purple;
     height: 80px;
     width: 1152px;
     display: flex;
@@ -28,7 +27,15 @@
 }
 
 .navbar__links{
-   background-color: mediumseagreen;
     height: 100% ;
-    width: 100px;
+    width: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.navbar__links a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(29, 29, 124);
 }

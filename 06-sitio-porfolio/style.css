@@ -66,7 +66,36 @@
 }
 
 .hero__text {
-    background-color: darkorchid;
     width: 60%;
     height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: sans-serif;
+}
+
+.hero__text h3 {
+    color: rgb(35, 45, 104);
+    margin-bottom: 9px;
+}
+
+.hero__text h2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.hero__text .title {
+    color: rgb(65, 79, 160);
+    font-size: 2em;
+    font-weight: 300;
+}
+
+.hero__text .title-dark {
+    color: rgb(13, 19, 56);
+    font-size: 2em;
+    font-weight: 500;
+}
+
+.hero__text button {
+
 }

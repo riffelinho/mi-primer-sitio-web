@@ -97,5 +97,12 @@
 }
 
 .hero__text button {
-
+    background-color: rgb(65, 79, 160);
+    font-size: 075;
+    height: 3em;
+    width: 175px;
+    color: white;
+    text-transform: uppercase;
+    border: 0px solid white;
+    border-radius: 10px;
 }
